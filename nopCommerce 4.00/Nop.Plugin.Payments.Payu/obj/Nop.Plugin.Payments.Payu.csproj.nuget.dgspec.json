@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "projectName": "Nop.Plugin.Payments.Payu",
+        "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "projectName": "Nop.Plugin.Payments.Payu",
+      "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {}
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
+}
