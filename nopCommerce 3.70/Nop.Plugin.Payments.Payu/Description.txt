@@ -1,0 +1,8 @@
+Group: Payment methods
+FriendlyName: PayUMoney
+SystemName: Payments.Payu
+Version: 1.00
+SupportedVersions: 3.70
+Author: Brine Technologies LLP
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.Payu.dll
