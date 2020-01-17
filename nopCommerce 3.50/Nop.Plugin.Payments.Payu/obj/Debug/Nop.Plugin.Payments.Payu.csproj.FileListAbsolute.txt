@@ -1,0 +1,28 @@
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\Configure.cshtml
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\PaymentInfo.cshtml
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\Presentation\Nop.Web\Plugins\Payments.Payu\web.config
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+C:\Users\deepak.prasad\Desktop\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\Configure.cshtml
+C:\Users\deepak.prasad\Desktop\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\PaymentInfo.cshtml
+C:\Users\deepak.prasad\Desktop\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\web.config
+C:\Users\deepak.prasad\Desktop\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+C:\Users\deepak.prasad\Desktop\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\NopCommerce\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.dll
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\NopCommerce\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.pdb
+C:\Users\deepak.prasad\Desktop\NopCommerce PayUMoney\NopCommerce PayUMoney\NopCommerce\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.dll
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\Nop.Plugin.Payments.Payu.pdb
+C:\Users\Abhi\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\Configure.cshtml
+C:\Users\Abhi\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\PaymentInfo.cshtml
+C:\Users\Abhi\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\web.config
+C:\Users\Abhi\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+C:\Users\Abhi\nopCommerce_Testing\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\Configure.cshtml
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentPayu\PaymentInfo.cshtml
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\web.config
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Description.txt
+C:\Users\Abhi\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.Payu\logo.jpg
