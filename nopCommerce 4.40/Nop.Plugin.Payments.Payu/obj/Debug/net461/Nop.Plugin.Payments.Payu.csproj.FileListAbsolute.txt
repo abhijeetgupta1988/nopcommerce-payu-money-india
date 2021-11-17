@@ -1,0 +1,15 @@
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.csprojResolveAssemblyReference.cache
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.csproj.CoreCompileInputs.cache
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.AssemblyInfoInputs.cache
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.AssemblyInfo.cs
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\_ViewImports.cshtml
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\plugin.json
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\logo.jpg
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\Configure - Copy.cshtml
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\Configure.cshtml
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentInfo.cshtml
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+D:\temp workspace\nopCommerce_4.0_Source\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.csproj.CopyComplete
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.dll
+D:\temp workspace\nopCommerce_4.0_Source\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\net461\Nop.Plugin.Payments.Payu.pdb
