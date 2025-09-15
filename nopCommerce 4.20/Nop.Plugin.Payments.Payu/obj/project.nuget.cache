@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbR8ZIbz0kA=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.",
+      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.2.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
+      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.2.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.2.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
+      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.20\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
+}

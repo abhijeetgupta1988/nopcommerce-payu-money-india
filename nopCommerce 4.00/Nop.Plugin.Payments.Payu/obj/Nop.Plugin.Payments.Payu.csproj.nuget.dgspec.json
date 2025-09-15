@@ -1,49 +1,66 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {}
+    "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {
+    "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "projectUniqueName": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
         "projectName": "Nop.Plugin.Payments.Payu",
-        "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\obj\\",
+        "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "packagesPath": "C:\\Users\\abhij\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.00\\Nop.Plugin.Payments.Payu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abhij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net461"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\ionia-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/mfTggR6hN2VCZ8p3aBkg9lBClE5ropRlWd7pfIFOgCAmS8mgqm/api/v3/index.json": {},
+          "https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net461": {
-            "projectReferences": {
-              "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\63650_53874_PayUMoney\\PayUMoney\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
-              }
-            }
+            "targetAlias": "net461",
+            "projectReferences": {}
           }
         },
         "warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net461": {}
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
       }
     }
   }
