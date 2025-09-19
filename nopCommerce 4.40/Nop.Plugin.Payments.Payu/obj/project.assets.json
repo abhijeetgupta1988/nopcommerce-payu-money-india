@@ -91,31 +91,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "libraryId": "Microsoft.NETCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
-    },
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json."
-    }
-  ]
+  }
 }

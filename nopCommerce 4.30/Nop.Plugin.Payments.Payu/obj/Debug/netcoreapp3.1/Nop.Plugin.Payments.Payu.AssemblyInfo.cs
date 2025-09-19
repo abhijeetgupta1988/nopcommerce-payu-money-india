@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nop.Plugin.Payments.Payu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ba479dac163542f3795112e51170ce94238a601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9757d57f488b23e0b6f7062662739dd47a8aaae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nop.Plugin.Payments.Payu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nop.Plugin.Payments.Payu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

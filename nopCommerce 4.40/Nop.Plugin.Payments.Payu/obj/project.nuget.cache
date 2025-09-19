@@ -1,49 +1,12 @@
 {
   "version": 2,
   "dgSpecHash": "mOTs60CZcd8=",
-  "success": false,
+  "success": true,
   "projectFilePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\abhij\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\abhij\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "libraryId": "Microsoft.NETCore.App.Ref",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "libraryId": "Microsoft.AspNetCore.App.Ref",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.\r\n  Response status code does not indicate success: 401 (Unauthorized).",
-      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.",
-      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce 4.40\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
