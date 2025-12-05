@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.70\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.70\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.70\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "projectName": "Nop.Plugin.Payments.Payu",
+        "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.70\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+        "packagesPath": "C:\\Users\\abhij\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.70\\Nop.Plugin.Payments.Payu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\ionia-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/mfTggR6hN2VCZ8p3aBkg9lBClE5ropRlWd7pfIFOgCAmS8mgqm/api/v3/index.json": {},
+          "https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

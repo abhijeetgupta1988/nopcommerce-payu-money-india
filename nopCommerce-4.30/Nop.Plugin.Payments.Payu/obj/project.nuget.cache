@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "0J5RV1aymYA=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.30\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/craypay2020/_packaging/CoreComponents/nuget/v3/index.json.",
+      "projectPath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.30\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\nopCommerce\\nopcommerce-payu-money-india\\nopCommerce-4.30\\Nop.Plugin.Payments.Payu\\Nop.Plugin.Payments.Payu.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

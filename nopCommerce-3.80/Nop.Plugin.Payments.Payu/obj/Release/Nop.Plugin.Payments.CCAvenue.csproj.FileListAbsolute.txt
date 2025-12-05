@@ -1,0 +1,6 @@
+F:\Own\NopCommerce\Sources\src\Presentation\Nop.Web\Plugins\Payments.CCAvenue\Description.txt
+F:\Own\NopCommerce\Sources\src\Presentation\Nop.Web\Plugins\Payments.CCAvenue\Nop.Plugin.Payments.CCAvenue.dll
+F:\Own\NopCommerce\Sources\src\Presentation\Nop.Web\Plugins\Payments.CCAvenue\Nop.Plugin.Payments.CCAvenue.pdb
+F:\Own\NopCommerce\Sources\src\Plugins\Nop.Plugin.Payments.CCAvenue\obj\Release\ResolveAssemblyReference.cache
+F:\Own\NopCommerce\Sources\src\Plugins\Nop.Plugin.Payments.CCAvenue\obj\Release\Nop.Plugin.Payments.CCAvenue.dll
+F:\Own\NopCommerce\Sources\src\Plugins\Nop.Plugin.Payments.CCAvenue\obj\Release\Nop.Plugin.Payments.CCAvenue.pdb

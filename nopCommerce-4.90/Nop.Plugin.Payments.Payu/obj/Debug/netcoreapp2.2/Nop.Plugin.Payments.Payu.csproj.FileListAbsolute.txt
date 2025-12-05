@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Views\_ViewImports.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\plugin.json
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\logo.jpg
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Views\Configure - Copy.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Views\Configure.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Views\PaymentInfo.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.deps.json
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.dll
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Payu\Nop.Plugin.Payments.Payu.pdb
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.AssemblyInfo.cs
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.csproj.CopyComplete
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.dll
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.pdb
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Payu\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Payu.csprojAssemblyReference.cache

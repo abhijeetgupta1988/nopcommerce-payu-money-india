@@ -1,0 +1,99 @@
+[
+  {
+      "Type": "Plugin",
+      "SupportedVersion": "3.50",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.50/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.5/Nop.Plugin.Payments.Payu/"
+    },
+      {
+      "Type": "Plugin",
+      "SupportedVersion": "3.60",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.60/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.60/Nop.Plugin.Payments.Payu/"
+    },
+      {
+      "Type": "Plugin",
+      "SupportedVersion": "3.70",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.70/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.70/Nop.Plugin.Payments.Payu/"
+    },
+      {
+      "Type": "Plugin",
+      "SupportedVersion": "3.80",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.80/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.80/Nop.Plugin.Payments.Payu/"
+    },  {
+      "Type": "Plugin",
+      "SupportedVersion": "3.90",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.90/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-3.90/Nop.Plugin.Payments.Payu/"
+    },  
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.00",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.00/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.00/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.10",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.10/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.10/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.20",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.20/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.20/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.30",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.30/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.30/Nop.Plugin.Payments.Payu/"
+    },
+{
+      "Type": "Plugin",
+      "SupportedVersion": "4.40",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.40/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.40/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.50",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.50/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.50/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.70",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.70/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.70/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.80",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.80/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.80/Nop.Plugin.Payments.Payu/"
+    },
+    {
+      "Type": "Plugin",
+      "SupportedVersion": "4.90",
+      "DirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.90/Payments.Payu/",
+      "SystemName": "Payments.Payu",
+      "SourceDirectoryPath": "nopcommerce-payu-money-india/nopCommerce-4.90/Nop.Plugin.Payments.Payu/"
+    }
+]
